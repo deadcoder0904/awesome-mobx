@@ -287,7 +287,6 @@ Your contributions and suggestions are heartily welcome. =^.^=
 
 * [react-transmission](https://github.com/fcsonline/react-transmission)
 * [Lionshare](https://github.com/lionsharecapital)
-* [PICSrush](http://picsrush.com/app/)
 * [Async](https://async-await.com/) - Team communication app for deep work.
 * [Untold RPG](https://untold-game.com/) - A text-based game for iOS and Android (uses Mobx with React Native)
 
